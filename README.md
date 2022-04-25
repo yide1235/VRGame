@@ -3,5 +3,5 @@ VRGame
 
 before downlaod and 
 
-![](./img/video.mp4)
+![](./img/video.gif)
 ![](./img/4.png)
